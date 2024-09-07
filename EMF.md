@@ -1,3 +1,8 @@
+Employer	EMF Consultants (TAS), P/L
+State/Province	Tasmania (Australia)
+Title	Mechanical Engineer (Part-time)
+Employment Dates	Apr. 1986 — May. 1986
+
 Tasks and Duties
 Detailed design and documentation of heating and ventilation and grease reticulation systems, in coordination with electrical and fire consultants as well as the client and architect. Preparing calculations, drawings and specifications for public tender by prospective mechanical services sub-contractors.
 Representative Projects
