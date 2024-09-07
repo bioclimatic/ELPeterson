@@ -22,8 +22,8 @@ I arranged bronze casting of casings and impellers for corrosive applications su
 
 About 40% of my time was spent on non-engineering tasks such as management of subordinates and engagement with clients and suppliers. Although I provided my Manager and superiors with engineering solutions to automate and streamline such workflows ... such as computer programming pump and and system dynamic curves and integrating with the corporate quotation system.
 Representative Projects
-1983 project example. Auckland Regional Authority (ARA) water treatment pump, integrated within the Hunua Scheme. [here]
-(BBE_ARA.md)
+
+1983 project example. Auckland Regional Authority (ARA) water treatment pump, integrated within the Hunua Scheme. [here](BBE_ARA.md)
 
 
 1983 Project example. Lion Nathan Breweries, East Tāmaki, Auckland. [here](BBE_Lion.html)
