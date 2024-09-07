@@ -3,4 +3,6 @@
 ### Visiting Research Fellow at the University of Leeds
 ### Secretary of ASHRAE's Technical Committee TC 4.2 Climatic Information
 
-see example from Brown Brothers Engineers [here](BBE)
+see example from Brown Brothers Engineers [here](BBE.md)
+
+another example from BBE's client Lion Breweries is [here](BBE_Lion.md)
