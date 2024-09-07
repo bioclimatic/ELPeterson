@@ -5,11 +5,11 @@
 #
 #
 
-| projects | Employer | Start Date	| End Date | Collegue |
+| projects | Employer | Start Date	| End Date | Position |
 | -------- | -------- | ---------- | -------- | -------- |
 | [ARA](BBE_ARA.md), [Lion](BBE_Lion.md), [Synfuel](BBE_Synfuel.md)| [Brown Brothers Engineers](BBE_.md) | December 1982 | April 1984	| Sales Engineer | 
 |	| [Kingston, Reynolds, Thom and Allardice](KRTA.md)	| April 1984	| February 1986	| Thermal Environmental Engineering | 
-|	| EMF Consultants (TAS), P/L	| April 1986	| May 1986 | Dennis Bewsher | 
+|	| EMF Consultants (TAS), P/L	| April 1986	| May 1986 | Mechanical Engineer | 
 |	| MGF	| June 1986	| October 1986 | Geoff Medley | 
 |	| Meinhardts	| October 1986	| December 1986	| Ken Day | 
 |	| Norman Disney & Young Consulting Engineers	| February 1987	| May 1989	| Russell Edward Brothers	| 
