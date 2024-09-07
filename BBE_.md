@@ -22,10 +22,11 @@ I arranged bronze casting of casings and impellers for corrosive applications su
 
 About 40% of my time was spent on non-engineering tasks such as management of subordinates and engagement with clients and suppliers. Although I provided my Manager and superiors with engineering solutions to automate and streamline such workflows ... such as computer programming pump and and system dynamic curves and integrating with the corporate quotation system.
 Representative Projects
-1983 project example. Auckland Regional Authority (ARA) water treatment pump, integrated within the Hunua Scheme. (here)[BBE.md]
+1983 project example. Auckland Regional Authority (ARA) water treatment pump, integrated within the Hunua Scheme. [here]
+(BBE.md)
 
 
-1983 Project example. Lion Nathan Breweries, East Tāmaki, Auckland. (here)[BBE_Lion.html]
+1983 Project example. Lion Nathan Breweries, East Tāmaki, Auckland. [here](BBE_Lion.html)
 
 
-1984 Project example. New Zealand Synthetic Fuels Corporation Limited (Synfuel) fire fighting pump. Delivered to Synfuel gas-to-gasoline complex, Motunui facility converting natural gas into gasoline which employs fixed bed catalytic process using zeolite catalyst. I designed, specified assembly, commissioned, and delivered the trailer mounted high volume pumpset including diesel engine required for fire suppression at the complex, located in Taranaki New Zealand.
+1984 Project example. New Zealand Synthetic Fuels Corporation Limited (Synfuel) fire fighting pump. [here](BBE_Synfuel.md)
