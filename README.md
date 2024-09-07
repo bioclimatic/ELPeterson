@@ -7,11 +7,11 @@ My first job as a graduate Engineer was as a Sales Engineer for Brown Brothers E
 
 | Employer | Start Date	| End Date | Collegue |
 | -------- | ---------- | -------- | -------- |
-| Brown Brothers Engineers | December 1982	April 1984	Warren Edwin Ubels
-|	Kingston, Reynolds, Thom and Allardice	| April 1984	February 1986	Kwok Chuen Foong
-|	EMF Consultants (TAS), P/L	| April 1986	May 1986
-|	MGF	| June 1986	October 1986
-|	Meinhardts	| October 1986	December 1986	
+| Brown Brothers Engineers | December 1982 | April 1984	| Warren Edwin Ubels | 
+|	Kingston, Reynolds, Thom and Allardice	| April 1984	| February 1986	| Kwok Chuen Foong | 
+|	EMF Consultants (TAS), P/L	| April 1986	| May 1986 | | 
+|	MGF	| June 1986	| October 1986 | Dennis Bewsher | 
+|	Meinhardts	| October 1986	| December 1986	| Ken Day | 
 |	Norman Disney & Young Consulting Engineers	| February 1987	| May 1989	| Russell Edward Brothers	| 
 |	Gausman & Moore Mechanical and Electrical Engineers	| September 1989	| November 1991	| Mark Vincent Leutgeb	| 
 |	NORAMCO Engineering Corporation	| January 1992	| March 1993	| Bernadette E Smith	| 
