@@ -1,4 +1,4 @@
-Contact	Self-verified
+Contact	David Bristow
 Employer	Simmonds & Bristow
 State/Province	Queensland (Australia)
 Title	Senior Mechanical Engineer (Full-time)
