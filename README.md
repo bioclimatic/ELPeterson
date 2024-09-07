@@ -2,7 +2,8 @@
 # Eric L Peterson Engineering Portfolio
 ### Visiting Research Fellow at the University of Leeds
 ### Secretary of ASHRAE's Technical Committee TC 4.2 Climatic Information
-
-see example from Brown Brothers Engineers [here](BBE.md)
+#
+see examples from Brown Brothers Engineers (BBE)
+Auckland Resional Authority municiple water supply [here](BBE.md)
 
 another example from BBE's client Lion Breweries is [here](BBE_Lion.md)
