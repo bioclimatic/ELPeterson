@@ -7,8 +7,8 @@
 
 | projects | Employer | Start Date	| End Date | Collegue |
 | -------- | -------- | ---------- | -------- | -------- |
-| [ARA](BBE_ARA.md), [Lion](BBE_Lion.md), [Synfuel](BBE_Synfuel.md)| [Brown Brothers Engineers](BBE_.md) | December 1982 | April 1984	| Warren Edwin Ubels | 
-|	| Kingston, Reynolds, Thom and Allardice	| April 1984	| February 1986	| Kwok Chuen Foong | 
+| [ARA](BBE_ARA.md), [Lion](BBE_Lion.md), [Synfuel](BBE_Synfuel.md)| [Brown Brothers Engineers](BBE_.md) | December 1982 | April 1984	| Sales Engineer | 
+|	| [Kingston, Reynolds, Thom and Allardice](KRTA.md)	| April 1984	| February 1986	| Thermal Environmental Engineering | 
 |	| EMF Consultants (TAS), P/L	| April 1986	| May 1986 | Dennis Bewsher | 
 |	| MGF	| June 1986	| October 1986 | Geoff Medley | 
 |	| Meinhardts	| October 1986	| December 1986	| Ken Day | 
