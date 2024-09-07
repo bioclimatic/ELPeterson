@@ -7,7 +7,7 @@ My first job as a graduate Engineer was as a Sales Engineer for Brown Brothers E
 
 | projects | Employer | Start Date	| End Date | Collegue |
 | -------- | -------- | ---------- | -------- | -------- |
-| [ARA](BBE_ARA.md), [Lion](BBE_Lion.md), [Syngas](BBE_Syngas.md)| [Brown Brothers Engineers](BBE_md) | December 1982 | April 1984	| Warren Edwin Ubels | 
+| [ARA](BBE_ARA.md), [Lion](BBE_Lion.md), [Synfuel](BBE_Synfuel.md)| [Brown Brothers Engineers](BBE_.md) | December 1982 | April 1984	| Warren Edwin Ubels | 
 |	| Kingston, Reynolds, Thom and Allardice	| April 1984	| February 1986	| Kwok Chuen Foong | 
 |	| EMF Consultants (TAS), P/L	| April 1986	| May 1986 | Dennis Bewsher | 
 |	| MGF	| June 1986	| October 1986 | Geoff Medley | 
