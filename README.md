@@ -15,7 +15,7 @@
 |	[Wesley Hospital](Wesley.md), [Suncorp Pavillion](Suncorp.md), [Carindale Shopping Mall](Carindale.md)| [Norman Disney & Young Consulting Engineers](NDY.md)	| February 1987	| May 1989	| Project Engineer	| 
 |	| [Gausman & Moore Mechanical and Electrical Engineers](GM.md)	| September 1989	| November 1991	| Lead Mechanical Engineer	| 
 |	| [NORAMCO Engineering Corporation](Noramco.md)	| January 1992	| March 1993	| Mechanical Engineer	| 
-|	| Northern States Power (NSP)	| June 1993	| August 1993	| | 
+|	| [Northern States Power (NSP)](NSP.md)	| June 1993	| August 1993	| Energy Auditor | 
 |	| Michigan Technological University	| December 1993	| May 1994	| Professor Alex Mayer	| 
 |	| James Cook University	| July 1998	| November 1998	| Harry Suehrcke	| 
 |	| James Cook University	| April 1999	| January 2002	| Madoc Sheehan	| 
