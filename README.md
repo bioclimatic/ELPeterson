@@ -26,7 +26,7 @@
 |	| [Department of Public Works Project Services](DPW1.md)	| January 2006	| June 2006	| Senior Mechanical Engineer 	| 
 |	| [Victoria University of Technology](VU.md)	| June 2006	| June 2010	| Lecturer of Architectural Engineering	| 
 |	| [University of the Sunshine Coast](USC.md)	| July 2010	| February 2011	| Senior Lecturer | 
-|	| Queensland Government, Department of Public Works Project Services and SunWater| January 2011	| November 2012	| Frank Harry Schulze	| 
+|	| [Queensland Government, Department of Public Works Project Services and SunWater](DPW2.md)| January 2011	| November 2012	| Senior Mechanical Engineer	| 
 |	| Simmonds & Bristow	| February 2015	| June 2015	| David Bristow | 
 |	| Earth Energy Solutions	| July 2015	| December 2015	| Ernst Slabbekoorn	| 
 |	| ADG Consulting Engineers	| January 2016	| July 2016	| Russell Moran	| 
