@@ -24,7 +24,7 @@
 |	| [University of Queensland](UQ1.md)	| November 2002	| November 2004	| Sessional Lecturer / Adjunct Research Fellow	| 
 |	| [Built Environment Research Unit (BERU)](BERU.md)	| November 2002	| November 2005	| Research Officer	| 
 |	| [Department of Public Works Project Services](DPW1.md)	| January 2006	| June 2006	| Senior Mechanical Engineer 	| 
-|	| Victoria University of Technology	| June 2006	| June 2010	| Ian Campbell	| 
+|	| [Victoria University of Technology](VU.md)	| June 2006	| June 2010	| Lecturer of Architectural Engineering	| 
 |	| University of the Sunshine Coast	| July 2010	| February 2011	| Helen Fairweather	| 
 |	| Queensland Government, Department of Public Works Project Services and SunWater| January 2011	| November 2012	| Frank Harry Schulze	| 
 |	| Simmonds & Bristow	| February 2015	| June 2015	| David Bristow | 
