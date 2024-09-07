@@ -9,8 +9,8 @@
 | -------- | -------- | ---------- | -------- | -------- |
 | [ARA](BBE_ARA.md), [Lion](BBE_Lion.md), [Synfuel](BBE_Synfuel.md)| [Brown Brothers Engineers](BBE_.md) | December 1982 | April 1984	| Sales Engineer | 
 |	| [Kingston, Reynolds, Thom and Allardice](KRTA.md)	| April 1984	| February 1986	| Thermal Environmental Engineering | 
-|	| EMF Consultants (TAS), P/L	| April 1986	| May 1986 | Mechanical Engineer | 
-|	| MGF	| June 1986	| October 1986 | Geoff Medley | 
+|	| [EMF Consultants (TAS), P/L](EMF.md)	| April 1986	| May 1986 | Mechanical Engineer | 
+|	| [MGF](MGF.md)	| June 1986	| October 1986 | Mechanical Engineer | 
 |	| Meinhardts	| October 1986	| December 1986	| Ken Day | 
 |	| Norman Disney & Young Consulting Engineers	| February 1987	| May 1989	| Russell Edward Brothers	| 
 |	| Gausman & Moore Mechanical and Electrical Engineers	| September 1989	| November 1991	| Mark Vincent Leutgeb	| 
