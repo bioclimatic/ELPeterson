@@ -16,7 +16,7 @@
 |	| [Gausman & Moore Mechanical and Electrical Engineers](GM.md)	| September 1989	| November 1991	| Lead Mechanical Engineer	| 
 |	| [NORAMCO Engineering Corporation](Noramco.md)	| January 1992	| March 1993	| Mechanical Engineer	| 
 |	| [Northern States Power (NSP)](NSP.md)	| June 1993	| August 1993	| Energy Auditor | 
-|	| Michigan Technological University	| December 1993	| May 1994	| Professor Alex Mayer	| 
+|	| Michigan Technological University	| December 1993	| May 1994	| Environmental Engineering Laboratory Assistant | 
 |	| James Cook University	| July 1998	| November 1998	| Harry Suehrcke	| 
 |	| James Cook University	| April 1999	| January 2002	| Madoc Sheehan	| 
 |	| Mausell (AECOM)	| January 2002	| July 2002	| Troy Paul Craperi	| 
