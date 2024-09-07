@@ -3,7 +3,4 @@
 ### Visiting Research Fellow at the University of Leeds
 ### Secretary of ASHRAE's Technical Committee TC 4.2 Climatic Information
 #
-see examples from Brown Brothers Engineers (BBE) [here](BBE_.md)
-Auckland Resional Authority municiple water supply [here](BBE.md)
-
-another example from BBE's client Lion Breweries is [here](BBE_Lion.md)
+My first job as a graduate Engineer was as a Sales Engineer for Brown Brothers Engineers (BBE) detailed [here](BBE_.md).
