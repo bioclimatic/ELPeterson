@@ -3,7 +3,7 @@
 ### Visiting Research Fellow at the University of Leeds
 ### Secretary of ASHRAE's Technical Committee TC 4.2 Climatic Information
 #
-My first job as a graduate Engineer was as a Sales Engineer for Brown Brothers Engineers (BBE) detailed [here](BBE_.md).
+#
 
 | projects | Employer | Start Date	| End Date | Collegue |
 | -------- | -------- | ---------- | -------- | -------- |
