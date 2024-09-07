@@ -31,8 +31,4 @@
 |	| [Earth Energy Solutions](EES.md)	| July 2015	| December 2015	| Senior Mechanical Engineer	| 
 |	| [ADG Consulting Engineers](ADG.md)	| January 2016	| July 2016	| Senior ESD and Mechanical Building Services Engineer	| 
 |	| [University of Queensland](UQ2.md)	| January 2013	| August 2016	| Research Engineer/ Sessional Lecturer 	| 
-|	| University of Leeds	| November 2017	| June 2019	| Ida Shafagh	| 
-|	| University of Leeds	| May 2019	| March 2020	| David Wynne Hughes	| 
-|	| University of Leeds	| April 2020	| July 2020	| Sandra Piazolo	| 
-|	| University of Leeds	| June 2021	| September 2021	| Jeremy Laycock Campbell	| 
-|	| University of Leeds	| September 2016	| September 2024	| Visiting Researcher	| 
+|	[GEOTECH](GEOTECH.md), [Polar vortex](PV.md), [Geoassets](Geoassets.md), [Local Energy Systems](LES.md), [BioClimatic](BC.md)| University of Leeds	| September 2016	| September 2024	| Visiting Researcher	| 
