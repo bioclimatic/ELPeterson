@@ -1,3 +1,8 @@
+Employer	MGF
+State/Province	Northern Territory (Australia)
+Title	Mechanical Engineer (Full-time)
+Employment Dates	Jun. 1986 — Oct. 1986
+
 Tasks and Duties
 1987 Lead Mechanical Engineer, Medley, Greijmans and Flowers (MGF), Darwin. I took responsibility as MGF's Certifying Mechanical Engineer approved by the Building Practitioners Board of the Northern Territory. I made it possible for MGF to provide air-conditioning design and construction administration in Darwin and the top end of Australia. Extreme heat and humidity was challenging, but I always developed practical solutions to satisfy clients, Founders retired, so please ask Craig McClintock to verify.
 Representative Projects
