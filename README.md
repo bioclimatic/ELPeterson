@@ -9,8 +9,8 @@ My first job as a graduate Engineer was as a Sales Engineer for Brown Brothers E
 | -------- | ---------- | -------- | -------- |
 | Brown Brothers Engineers | December 1982 | April 1984	| Warren Edwin Ubels | 
 |	Kingston, Reynolds, Thom and Allardice	| April 1984	| February 1986	| Kwok Chuen Foong | 
-|	EMF Consultants (TAS), P/L	| April 1986	| May 1986 | | 
-|	MGF	| June 1986	| October 1986 | Dennis Bewsher | 
+|	EMF Consultants (TAS), P/L	| April 1986	| May 1986 | Dennis Bewsher | 
+|	MGF	| June 1986	| October 1986 | Geoff Medley | 
 |	Meinhardts	| October 1986	| December 1986	| Ken Day | 
 |	Norman Disney & Young Consulting Engineers	| February 1987	| May 1989	| Russell Edward Brothers	| 
 |	Gausman & Moore Mechanical and Electrical Engineers	| September 1989	| November 1991	| Mark Vincent Leutgeb	| 
@@ -27,7 +27,7 @@ My first job as a graduate Engineer was as a Sales Engineer for Brown Brothers E
 |	Victoria University of Technology	| June 2006	| June 2010	| Ian Campbell	| 
 |	University of the Sunshine Coast	| July 2010	| February 2011	| Helen Fairweather	| 
 |	Queensland Government, Department of Public Works Project Services and SunWater| January 2011	| November 2012	| Frank Harry Schulze	| 
-|	Simmonds & Bristow	| February 2015	| June 2015	| | 
+|	Simmonds & Bristow	| February 2015	| June 2015	| David Bristow | 
 |	Earth Energy Solutions	| July 2015	| December 2015	| Ernst Slabbekoorn	| 
 |	ADG Consulting Engineers	| January 2016	| July 2016	| Russell Moran	| 
 |	University of Queensland	| January 2013	| August 2016	| Jose Luis Torero	| 
