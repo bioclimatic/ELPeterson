@@ -11,7 +11,7 @@
 |	| [Kingston, Reynolds, Thom and Allardice](KRTA.md)	| April 1984	| February 1986	| Thermal Environmental Engineering | 
 |	| [EMF Consultants (TAS), P/L](EMF.md)	| April 1986	| May 1986 | Mechanical Engineer | 
 |	| [MGF](MGF.md)	| June 1986	| October 1986 | Mechanical Engineer | 
-|	| Meinhardts	| October 1986	| December 1986	| Ken Day | 
+|	RAAF, Govt Offices, NT Free Trade Zone| [Meinhardts](Meinhardts.md)	| October 1986	| December 1986	| Mechanical Engineer  | 
 |	| Norman Disney & Young Consulting Engineers	| February 1987	| May 1989	| Russell Edward Brothers	| 
 |	| Gausman & Moore Mechanical and Electrical Engineers	| September 1989	| November 1991	| Mark Vincent Leutgeb	| 
 |	| NORAMCO Engineering Corporation	| January 1992	| March 1993	| Bernadette E Smith	| 
