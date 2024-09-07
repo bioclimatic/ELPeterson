@@ -14,7 +14,7 @@
 |	RAAF, Govt Offices, NT Free Trade Zone| [Meinhardts](Meinhardts.md)	| October 1986	| December 1986	| Mechanical Engineer  | 
 |	[Wesley Hospital](Wesley.md), [Suncorp Pavillion](Suncorp.md), [Carindale Shopping Mall](Carindale.md)| [Norman Disney & Young Consulting Engineers](NDY.md)	| February 1987	| May 1989	| Project Engineer	| 
 |	| [Gausman & Moore Mechanical and Electrical Engineers](GM.md)	| September 1989	| November 1991	| Lead Mechanical Engineer	| 
-|	| NORAMCO Engineering Corporation	| January 1992	| March 1993	| Bernadette E Smith	| 
+|	| [NORAMCO Engineering Corporation](Noramco.md)	| January 1992	| March 1993	| Mechanical Engineer	| 
 |	| Northern States Power (NSP)	| June 1993	| August 1993	| | 
 |	| Michigan Technological University	| December 1993	| May 1994	| Professor Alex Mayer	| 
 |	| James Cook University	| July 1998	| November 1998	| Harry Suehrcke	| 
