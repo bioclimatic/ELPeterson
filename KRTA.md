@@ -4,6 +4,7 @@ State/Province	Auckland (New Zealand)
 Title	Thermal Environmental Engineering (Full-time)
 Employment Dates	Apr. 1984 — Feb. 1986
 Duration	100% (1 year, 10 months)
+
 Tasks and Duties
 Graduate entry position in a multidisciplinary firm of Architects, Engineers, and Geoscientists. Mentored by specialists in commercial, industrial and geothermal development projects in New Zealand and SE Asia. KRTA Auckland Office, was later taken over by Sinclair Knight Merz. I was trained and took charge of Mechanical Engineering design and supervision of construction jobs in KRTA's Services Team lead by Kieth MacKinven and Process Engineering lead by KC Foong.
 
