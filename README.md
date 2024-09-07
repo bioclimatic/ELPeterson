@@ -29,7 +29,7 @@
 |	| [Queensland Government, Department of Public Works Project Services and SunWater](DPW2.md)| January 2011	| November 2012	| Senior Mechanical Engineer	| 
 |	| [Simmonds & Bristow](SB.md)	| February 2015	| June 2015	| Senior Mechanical Engineer  | 
 |	| [Earth Energy Solutions](EES.md)	| July 2015	| December 2015	| Senior Mechanical Engineer	| 
-|	| ADG Consulting Engineers	| January 2016	| July 2016	| Russell Moran	| 
+|	| [ADG Consulting Engineers](ADG.md)	| January 2016	| July 2016	| Senior ESD and Mechanical Building Services Engineer	| 
 |	| University of Queensland	| January 2013	| August 2016	| Jose Luis Torero	| 
 |	| University of Leeds	| November 2017	| June 2019	| Ida Shafagh	| 
 |	| University of Leeds	| May 2019	| March 2020	| David Wynne Hughes	| 
