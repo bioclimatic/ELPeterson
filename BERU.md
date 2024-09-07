@@ -1,0 +1,31 @@
+Contact	Allan Russell (feorlin@yahoo.com.au)
+Employer	Department of Public Works
+State/Province	Queensland (Australia)
+Title	Built Environment Research Unit (BERU) Officer (Full-time)
+Employment Dates	Nov. 2002 — Nov. 2005
+Duration	100% (3 years)
+Tasks and Duties
+I was employed as a postdoctoral researcher in Energy Conservation, as an officer of the Built Environment Research Unit (BERU). My tasks were to assist in government policy formulation for energy efficient cooling in hot humid climates.
+
+I systematically modelled and benchmarked building services and architecture, as a member of an inter-disciplinary systems developing government policy. At BERU we developed a hybrid evaporative dehumidifier that turned out could not be patented because we had stumbled upon concepts that Willis Carrier had employed a century before when he earned his PhD and patents for “air-conditioning”.
+
+I conducted a fundamental review of the evolution of 20th century convention for adiabatic cooling air-conditioners. Working at BERU I built climate information systems and evaluated various energy efficiency initiatives such as cool-roofs, and latent heat energy recovery.
+
+Illustrating progression of my responsibilities, I was given responsibility to design, procure, supervise commissioning of, and evaluate a number of low-energy cooling technologies, and to test these at DPI animal housing facilities before considering application in public schools.
+Representative Projects
+My work at BERU was focused in three programs comprised engineering, commissioning, measurement, and verification – driving Education Queensland “cool schools” program with proof of concept at DPI research facilities.
+• . benchmarking low energy cooling innovations 2002-2005.
+• Producing high-resolution map where evaporative cooling is appropriate 2003-2005.
+• Developed up-to-date air-conditioning design data published by AIRAH 2006.
+
+Following the evaporative cooling mapping, I worked 2004-05 with peer-reviewed acceptance of a technical paper published in 2006 that presented results of my detailed analysis of meteorological data to determine air conditioning design temperatures dry bulb and wet bulb for hundreds of locations throughout Queensland, My analysis work in 2005 used the tenth-highest daily maximum observed per year while I justified how I modified AIRAH's 1997 method that uses only 3PM records of temperature. My work in 2005 (published in 2006) demonstrated by extreme-value statistics (an inherently engineering-focused branch of maths) clear impact of climate change, while I had discovered, promoted, and applied all available historical data to establish outdoor design temperatures that will ensure that cooling plant are correctly sized in the near future. In particular I showed that inner city temperatures are rising, that bayside airport temperatures are not, and that suburban variability is substantially important. The foundation of my analysis depended upon my literature reviews and dataset procurement during year 2004 that I organized for the common use of my colleagues and I because such was not freely available for download.
+
+• . benchmarking low energy cooling
+Throughout my employment 2002-2005 I provided quality assurance and assisted the invertors, Brian Stockwell and Neville Williams for hybrid dehumidifier/evaporative coolers (QLD Gov patent application). In 2003 I provided research to show that while they had developed a contemporaneously novel concept, their designs were similar to some of the earliest patents of Willis Carrier 100 years prior, and so might not be patentable without highlighting the added value of direct current photovoltaic driven components such as the refrigerant compressor and chilled water pump. which I assisted with during 2004 Reinforce by my peer-reviews and assistance, management proceeded to patent Stockwell and Williams' concept and I continued to support demonstrations at public schools and department of primary industries (DPI) by designing, procuring and installing datalogging at the operational research facilities during the years 2003-2005.
+
+One of these was simply application of "cooi roof" coatings to poultry housing, which I evaluated in the summer of 2003/2004 at the DPI campus at Redlands. Thus I designed application on one building, managed bidding, awarded the contract and supervised installation while concurrently monitoring performance in the subject building while also monitoring un-improved similar buildings on the same campus. The result was seven kelvin cooling relief indoors during summer.
+
+In the summer of 2004-2005 I designed and managed integration of counterflow air-to-air energy recovery ventilator in the air-conditioned poultry sheds which had previously had a recirculating air system where ammonia was burning the eyes of staff. In response to complaints from DPI staff in 2004 I procured and deployed carbon dioxide sensors, followed in 2005 with ammonia monitoring to establish that fresh air ventilation was desperately warranted in the broiler grow-out facility at DPI Redlands campus. So I worked in 2005 to design, procure, and commission integration of an energy recovery ventilator without replacing the existing air-conditioning plant. My design and supervision of inclusion of the energy-recovery ventilator enabled 100% fresh air ventilation with a dramatic reduction in carbon dioxide and ammonia, and concurrent additional growth of 500 grams extra weight per broiler chicken in the industry standardized 42-day growout period. I costed the feasibility of retrofiting such energy recovery ventilators into classrooms where parents had installed split system air-conditioners, but the capital expense was not acceptable to the Education Department.
+
+
+• Producing high-resolution map where evaporative cooling is appropriate. (2003-2005). Understanding that the department did not have a licence to specialist software such as Matlab, I worked with Visual Basic to program office computers to parallel process hundreds of thousands of gridded time series of meteorological data to identify the precise geographical boundaries where direct evaporative cooling would suffice, and where vapour-compression air-conditioning is necessary to maintain suitable learning conditions in classrooms (as well as other premises).
