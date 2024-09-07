@@ -19,7 +19,7 @@
 |	| Michigan Technological University	| December 1993	| May 1994	| Environmental Engineering Laboratory Assistant | 
 |	| [James Cook University](JCU1.md)	| July 1998	| November 1998	| Sessional Lecturer 	| 
 |	| [James Cook University](JCU2.md)	| April 1999	| January 2002	| Kevin Stark Research Fellow in Civil and Environmental Engineering	| 
-|	| Mausell (AECOM)	| January 2002	| July 2002	| Troy Paul Craperi	| 
+|	| [Mausell (AECOM)](Maunsell.md)	| January 2002	| July 2002	| Water Engineer	| 
 |	| James Cook University	| January 2002	| November 2002	| Chaoshu Zeng	| 
 |	| University of Queensland	| November 2002	| November 2004	| Andrew Barnes	| 
 |	| Department of Public Works	| November 2002	| November 2005	| Allan Russell	| 
