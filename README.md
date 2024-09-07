@@ -20,7 +20,7 @@
 |	| [James Cook University](JCU1.md)	| July 1998	| November 1998	| Sessional Lecturer 	| 
 |	| [James Cook University](JCU2.md)	| April 1999	| January 2002	| Kevin Stark Research Fellow in Civil and Environmental Engineering	| 
 |	| [Mausell (AECOM)](Maunsell.md)	| January 2002	| July 2002	| Water Engineer	| 
-|	| James Cook University	| January 2002	| November 2002	| Chaoshu Zeng	| 
+|	| [James Cook University](JCU3.md)	| January 2002	| November 2002	| Sessional Lecturer	| 
 |	| University of Queensland	| November 2002	| November 2004	| Andrew Barnes	| 
 |	| Department of Public Works	| November 2002	| November 2005	| Allan Russell	| 
 |	| Department of Public Works Project Services	| January 2006	| June 2006	| Allan Russell	| 
