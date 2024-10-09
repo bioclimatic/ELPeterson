@@ -13,7 +13,7 @@
 |	<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Aerial_view_of_Darwin_NT.jpg" alt=Description width="300" height="150"> | [MGF](MGF.md)	Darwin Australia | June 1986	| October 1986 | Mechanical Engineer | 
 |	RAAF, Govt Offices, NT Free Trade Zone| [Meinhardts](Meinhardts.md)	Darwin Australia <img src="https://egans.com.au/wp-content/uploads/2016/06/meinhardt-logo-colour.jpg" alt=Description width="100" height="50"> | October 1986	| December 1986	| Mechanical Engineer  | 
 |	[Wesley Hospital](Wesley.md), [Suncorp Pavillion](Suncorp.md), [Carindale Shopping Mall](Carindale.md)| [Norman Disney & Young Consulting Engineers](NDY.md)	<img src="https://cdn.prod.website-files.com/605038b679d21525d348dda5/605038b679d215352148e444_Norman%20Disney%20%26%20Young.jpg" alt=Description width="100" height="50"> | February 1987	| May 1989	| Project Engineer	| 
-|	| [Gausman & Moore Mechanical and Electrical Engineers](GM.md)	| September 1989	| November 1991	| Lead Mechanical Engineer	| 
+|	![gausman-moore-2](https://github.com/user-attachments/assets/c8dffc2f-ba0b-427f-968b-e2ae99e9362f) | [Gausman & Moore Mechanical and Electrical Engineers](GM.md)	| September 1989	| November 1991	| Lead Mechanical Engineer	| 
 |	| [NORAMCO Engineering Corporation](Noramco.md)	| January 1992	| March 1993	| Mechanical Engineer	| 
 |	| [Northern States Power (NSP)](NSP.md)	| June 1993	| August 1993	| Energy Auditor | 
 |	| Michigan Technological University	| December 1993	| May 1994	| Environmental Engineering Laboratory Assistant | 
