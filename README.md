@@ -24,11 +24,11 @@
 |	<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/University_of_Queensland_%28crest%29.svg/640px-University_of_Queensland_%28crest%29.svg.png">| [University of Queensland](UQ1.md)	| November 2002	| November 2004	| Sessional Lecturer / Adjunct Research Fellow	| 
 |	![CRC_constr_Innov](https://github.com/user-attachments/assets/011ba628-fbc8-4be0-b180-4f0cca954cdc)![Qld+Dept+of+Public+Works](https://github.com/user-attachments/assets/86f6d1d8-c91f-4ab0-92a5-6f9335486c91)| [Built Environment Research Unit (BERU)](BERU.md)	| November 2002	| November 2005	| Research Officer	| 
 |	![Project Services](https://github.com/user-attachments/assets/512ce63d-872d-46a7-af2a-b7b72df3752f)| [Department of Public Works Project Services](DPW1.md)	| January 2006	| June 2006	| Senior Mechanical Engineer 	| 
-|	| [Victoria University of Technology](VU.md)	| June 2006	| June 2010	| Lecturer of Architectural Engineering	| 
-|	| [University of the Sunshine Coast](USC.md)	| July 2010	| February 2011	| Senior Lecturer | 
-|	| [Queensland Government, Department of Public Works Project Services and SunWater](DPW2.md)| January 2011	| November 2012	| Senior Mechanical Engineer	| 
-|	| [Simmonds & Bristow](SB.md)	| February 2015	| June 2015	| Senior Mechanical Engineer  | 
-|	| [Earth Energy Solutions](EES.md)	| July 2015	| December 2015	| Senior Mechanical Engineer	| 
-|	| [ADG Consulting Engineers](ADG.md)	| January 2016	| July 2016	| Senior ESD and Mechanical Building Services Engineer	| 
-|	| [University of Queensland](UQ2.md)	| January 2013	| August 2016	| Research Engineer/ Sessional Lecturer 	| 
+|	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmeXrvEi-yUnGSzaEUsYefM0A7VDZ6hWKoUw&s">| [Victoria University of Technology](VU.md)	| June 2006	| June 2010	| Lecturer of Architectural Engineering	| 
+|	<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/University_of_the_Sunshine_Coast_Logo.svg/375px-University_of_the_Sunshine_Coast_Logo.svg.png">| [University of the Sunshine Coast](USC.md)	| July 2010	| February 2011	| Senior Lecturer | 
+|	![Project Services](https://github.com/user-attachments/assets/512ce63d-872d-46a7-af2a-b7b72df3752f)<img src="https://upload.wikimedia.org/wikipedia/en/c/ce/SunWater_logo.png">| [Queensland Government, Department of Public Works Project Services and SunWater](DPW2.md)| January 2011	| November 2012	| Senior Mechanical Engineer	| 
+|	<img src="https://www.simmondsbristow.com.au/wp-content/uploads/2020/07/SimmonsandBristow_Logo-Long-01.png">| [Simmonds & Bristow](SB.md)	| February 2015	| June 2015	| Senior Mechanical Engineer  | 
+|	<img src="https://ecoforest.com/wp-content/uploads/2022/05/Logo_ecoforest_.svg?x37723">| [Earth Energy Solutions](EES.md)	| July 2015	| December 2015	| Senior Mechanical Engineer	| 
+|	<img src="https://www.adgce.com/wp-content/uploads/2021/03/adgce-logo.jpg.webp">| [ADG Consulting Engineers](ADG.md)	| January 2016	| July 2016	| Senior ESD and Mechanical Building Services Engineer	| 
+|	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodZDaKuazTCr1qLBVRcSUfeBSBS0zAG58HA&s">| [University of Queensland Advanced Engineering](UQ2.md)	| January 2013	| August 2016	| Research Engineer/ Sessional Lecturer 	| 
 |	[GEOTECH](GEOTECH.md), [Polar vortex](PV.md), [Geoassets](Geoassets.md), [Local Energy Systems](LES.md), [BioClimatic](BC.md)| University of Leeds	| September 2016	| September 2024	| Visiting Researcher	| 
