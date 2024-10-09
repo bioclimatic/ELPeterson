@@ -1,3 +1,5 @@
+< img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7PiS1_SjTO22UIEyvhboX0V8UpJeFgb-DCw&s" >
+
 I took responsibility of one of NDY's clients' pavilions at the 1988 Worlds Fair in Brisbane. For the
 Expo '88 Suncorp Pavilion, I designed evaporative cooling at the client's direction after having warned them that 
 humidity would likely become uncomfortably humid by October 1987. 
