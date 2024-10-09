@@ -11,3 +11,5 @@ Nightcliff Hotel. I sorted out the client's initial dissatisfaction with island 
 Woolworths Downtown Darwin Supermarket Condensing Units. I designed condensing unit shrouds to prevent recirculation within urban canyon at the rear of the premises,
 
 Berry Springs Territory Wildlife Park managed by NT National Parks and Wildlife Service. I designed and documented air-conditioning climate control of the nocturnal animal display hall. This required me to detail individually controlled enclosures for distinctive habitats of Australia's vast Norther Territory, ranging from desert to monsoonal forests.
+
+https://territorywildlifepark.com.au/__data/assets/image/0005/426065/TWP-highlight-Aquarium.jpg
