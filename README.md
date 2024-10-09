@@ -1,9 +1,12 @@
-<img width="92" alt="Eric" src="https://github.com/user-attachments/assets/5f89e734-5a71-46c1-a900-6892376699b2">
-# Eric L Peterson Engineering Portfolio
-### Visiting Research Fellow at the University of Leeds
-### Secretary of ASHRAE's Technical Committee TC 4.2 Climatic Information
-#
-#
+
+# Eric L Peterson (PE, CEng, MCIBSE) <img width="92" alt="Eric" src="https://github.com/user-attachments/assets/5f89e734-5a71-46c1-a900-6892376699b2"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/ASHRAE.png/120px-ASHRAE.png">
+
+### Technical Committee [TC 4.2 Climatic Information](https://tpc.ashrae.org/?cmtKey=e0e8f0ee-8bc5-4c10-ad8a-1bdef2db4131) Secretary 
+
+#### American Society of Heating, Refrigeration, and Air-conditioning Engineers
+
+
+# Engineering Portfolio of Eric Peterson
 
 | sample projects | Employer | Start Date	| End Date | Position |
 | -------- | -------- | ---------- | -------- | -------- |
