@@ -14,4 +14,4 @@ Synfuel Gas to Gasoline Plant, Image from 'IPENZ Engineering to 1990,' p.25.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Motorspritze_Typ_2.jpg" alt="Description" width="300" height="250"> Illustration of a older mobile fire pump, Vogt AG type 2 (Creative Commons 3.0) https://commons.wikimedia.org/wiki/File:Motorspritze_Typ_2.jpg
 
-<img src=" https://collection.pukeariki.com/records/images/large/137795/9a7f48216a370aa9a5f509a8009b7ca694e68571.jpg">
+<img width="300" alt="Site" src="https://collection.pukeariki.com/records/images/large/137795/9a7f48216a370aa9a5f509a8009b7ca694e68571.jpg">
