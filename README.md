@@ -7,8 +7,8 @@
 
 | projects | Employer | Start Date	| End Date | Position |
 | -------- | -------- | ---------- | -------- | -------- |
-| [ARA](BBE_ARA.md), [Lion](BBE_Lion.md), [Synfuel](BBE_Synfuel.md)| [Brown Brothers Engineers](BBE_.md) | December 1982 | April 1984	| Sales Engineer | 
-|	| [Kingston, Reynolds, Thom and Allardice](KRTA.md)	| April 1984	| February 1986	| Thermal Environmental Engineering | 
+| [ARA](BBE_ARA.md), [Lion](BBE_Lion.md), [Synfuel](BBE_Synfuel.md)| [Brown Brothers Engineers](BBE_.md) <img src="https://product.yellow.co.nz/content/5898884caea1435c14f330e748b33b268d9319919fc5c8f068e651106cef84c6/QVNTRVQjUWliTUNtMTdNT3ZJaTlNcW5jQWFX/Brown%20Brothers%20Engineers%20NZ%20Logo.png" alt=Description width="150" height="50"> | December 1982 | April 1984	| Sales Engineer | 
+|	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/AMP_Tower_Auckland.jpg/220px-AMP_Tower_Auckland.jpg" alt=Description width="100" height="150"> KRTA Offices, Quay Tower L10 & 11, Auckland | [Kingston, Reynolds, Thom and Allardice](KRTA.md)	| April 1984	| February 1986	| Thermal Environmental Engineering | 
 |	| [EMF Consultants (TAS), P/L](EMF.md)	| April 1986	| May 1986 | Mechanical Engineer | 
 |	| [MGF](MGF.md)	| June 1986	| October 1986 | Mechanical Engineer | 
 |	RAAF, Govt Offices, NT Free Trade Zone| [Meinhardts](Meinhardts.md)	| October 1986	| December 1986	| Mechanical Engineer  | 
