@@ -40,5 +40,5 @@
 
 | title | conference | location	| Date | download |
 | -------- | -------- | ---------- | -------- | -------- |
-| talk | ASHRAE winter | Chicago | February 2024 | URL |
-| -------- | -------- | ---------- | -------- | -------- |
+| Dunkelflaute (dark doldrums) defrosting of air-source heat pumps | ASHRAE winter meeting | Chicago | 11th January 2024 | [Seminar #19 Beneficial Electrification](https://github.com/user-attachments/files/18053263/2024-winter-Beneficial-Electrification-EPeterson.-11Jan2024.pdf) |
+| Sufficiency-Efficiency-Renewable Framework to Adapt Buildings in a Changing Climate without Compounding the Problem | ASHRAE winter meeting | Chicago | 15th January 2024 |[Seminar 45# Design Guidance for Climate Change](https://github.com/user-attachments/files/18053260/2024-winter-Design-Guidance-for-Climate-Change-EPeterson-15Jan2024.pdf) |
